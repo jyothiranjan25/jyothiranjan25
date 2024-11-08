@@ -1,14 +1,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jyothi Ranjan.
 ======================================================================================================================================
 
--------------------------
 
-* 🌍  I'm based in Wisconsin
-* 🖥️  See my portfolio at [paytonpierce.dev](http://paytonpierce.dev)
-* ✉️  You can contact me at [paytontaylor96@gmail.com](mailto:paytontaylor96@gmail.com)
-* 🧠  I'm learning NodeJS
-* 🤝  I'm open to collaborating on projects that need a UI refresh!
-* ⚡  I have 15 chickens 🐔
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `Java full Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except History :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
 
 ### Skills
 
