@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./Developer-activity-bro.svg" width="290px" align="right" />
+<img  src="./Developer-activity-bro.svg" width="300px" align="right" />
 
 - 🔭 I’m currently working on `Something Intresting`.
 
